@@ -1,0 +1,6 @@
+interface:
+  display_name: "Social Network Coevolution RSiena"
+  short_description: "Maintain RSiena city network workflows"
+  default_prompt: "Use $social-network-coevolution-rsiena to audit my RSiena coevolution workflow and draft a concrete maintenance plan."
+policy:
+  allow_implicit_invocation: true
