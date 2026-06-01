@@ -1,4 +1,4 @@
-# Urban Studies: Social Network Coevolution Workflow
+# Social Network Coevolution Workflow
 
 This repository maintains an R/RSiena workflow for studying the coevolution of Chinese inter-city official investment-attraction networks and capital-flow networks.
 
